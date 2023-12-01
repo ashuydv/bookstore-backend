@@ -1,0 +1,60 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+jspm_packages/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+# dotenv environment variables file
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Compiled binary addons
+build/Release
+
+# Docker
+.dockerignore
+.dockerenv
+
+# Debug files
+*.swp
+*.swo
+*.swm
+*.pidb
+*.db
+
+# Visual Studio Code directory
+.vscode/
+
+# Windows image file caches
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Temporary files
+.tmp/
+.temp/
